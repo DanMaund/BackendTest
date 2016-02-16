@@ -11,7 +11,6 @@ import com.googlecode.objectify.Result;
 
 import static com.googlecode.objectify.ObjectifyService.ofy;
 
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
